@@ -1,4 +1,5 @@
 # kass-world
 Learning GitHub ways.
-Hi C Kass here.
-Making some initial changes and comments to test push and pull.
+Hi CHK here now.
+Making some initial and further changes and comments to test push and pull again.
+Also want to try using Command Line to push and pull.
