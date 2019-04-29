@@ -1,0 +1,25 @@
+{
+  "name": "kass-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "jquery": "^3.2.1",
+    "normalize.css": "^7.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.7.7",
+    "browser-sync": "^2.26.5",
+    "del": "^4.1.1",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^6.4.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-svg-sprite": "^1.5.0",
+    "gulp-watch": "^4.3.11",
+    "postcss-import": "^12.0.1",
+    "postcss-mixins": "^6.2.1",
+    "postcss-nested": "^1.0.1",
+    "postcss-simple-vars": "^3.1.0"
+  }
+}
